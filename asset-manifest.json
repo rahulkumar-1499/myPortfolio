@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/myPortfolio/static/css/main.9772faa6.css",
+    "main.js": "/myPortfolio/static/js/main.6c3a7392.js",
+    "static/media/Rahul_Kumar__CV.pdf": "/myPortfolio/static/media/Rahul_Kumar__CV.20a56c3fcd5d1be18075.pdf",
+    "static/media/phishing-img.webp": "/myPortfolio/static/media/phishing-img.d1d26945b75b4c4ca6fc.webp",
+    "static/media/firs_pic.jpeg": "/myPortfolio/static/media/firs_pic.6b7bb984f063d8fb784e.jpeg",
+    "static/media/sec_pic.jpeg": "/myPortfolio/static/media/sec_pic.147975a35ccc8f99c6b6.jpeg",
+    "static/media/WAI.jpg": "/myPortfolio/static/media/WAI.ea82a07e25b5f783ca96.jpg",
+    "index.html": "/myPortfolio/index.html",
+    "main.9772faa6.css.map": "/myPortfolio/static/css/main.9772faa6.css.map",
+    "main.6c3a7392.js.map": "/myPortfolio/static/js/main.6c3a7392.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9772faa6.css",
+    "static/js/main.6c3a7392.js"
+  ]
+}
